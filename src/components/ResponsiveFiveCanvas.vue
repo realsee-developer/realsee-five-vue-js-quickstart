@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0 -->
 <script setup>
 import { FiveCanvas } from '@realsee/five/vue';
 
